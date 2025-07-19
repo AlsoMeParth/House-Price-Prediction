@@ -9,6 +9,3 @@ __pycache__/
 
 # Model and pipeline files
 *.pkl
-
-
-
